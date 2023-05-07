@@ -1,0 +1,454 @@
+Disease,Disease Description,Medicine and Description,,,,,,,,,,,,,,,,,,,,,,
+Fungal infection,"Fungal infections can be caused by a variety of fungal species, including yeasts, molds, and dermatophytes. Fungi are found everywhere in the environment and can cause infections when they enter the body through cuts, breaks, or other openings in the skin. Some fungal infections can be caused by fungi that are naturally present in the body, such as candidiasis. some of its common causes include Direct contact, Inhaling fungal spores,Immune suppression, Antibiotic use, and Poor hygiene.","Topical antifungals: Clotrimazole, miconazole, terbinafine, etc. $
+
+Oral antifungals: Fluconazole, itraconazole, terbinafine, etc. $
+
+Injectable antifungals: Amphotericin B $",,,,,,,,,,,,,,,,,,,,,,
+Diabetes,"Diabetes is a chronic (long-lasting) health condition that affects how your body turns
+ food into energy. Your body breaks down most of the food you eat into sugar (glucose) 
+and releases it into your bloodstream. When your blood sugar goes up, 
+it signals your pancreas to release insulin.","Insulin: This hormone helps regulate blood sugar levels and is used by people with type 1 diabetes and some people with type 2 diabetes. $
+
+Metformin: This is an oral medication that helps to lower blood sugar levels by reducing the amount of glucose produced by the liver and improving insulin sensitivity. $
+
+Sulfonylureas: This is a class of oral medications that stimulates the pancreas to produce more insulin. $
+
+DPP-4 inhibitors: This is a class of oral medications that helps to increase insulin production and lower blood sugar levels by blocking the breakdown of a hormone called incretin. $
+
+SGLT2 inhibitors: This is a class of oral medications that helps to lower blood sugar levels by blocking the reabsorption of glucose in the kidneys, causing glucose to be eliminated in the urine. $
+
+GLP-1 receptor agonists: This is a class of injectable medications that helps to lower blood sugar levels by increasing insulin production and reducing the amount of glucose produced by the liver.$",,,,,,,,,,,,,,,,,,,,,,
+Allergy,"An allergy is a reaction by the body's immune system to a usually harmless substance, such as pollen, pet dander, or food. Allergies are caused by the immune system overreacting to a substance (allergen) that is normally harmless to most people. This overreaction triggers the release of chemicals like histamine, causing symptoms like itching, sneezing, and rashes. A combination of genetic and environmental factors is thought to be involved in its cause.","Antihistamines: These work by blocking the effects of histamine, a chemical released by the body during an allergic reaction. $
+
+Decongestants: These reduce nasal congestion by narrowing the blood vessels in the nasal passages. $
+
+Corticosteroids: These help reduce inflammation and swelling. $
+
+Leukotriene modifiers: These work by blocking the action of leukotrienes, which are chemicals involved in the body's allergic response. $",,,,,,,,,,,,,,,,,,,,,,
+GERD,"GERD stands for Gastroesophageal Reflux Disease, a chronic condition in which stomach acid flows back into the esophagus causing symptoms like heartburn, chest pain, and difficulty swallowing.The cause of GERD is believed to be related to the weakening of the lower esophageal sphincter (LES), which allows stomach acid to reflux back into the esophagus. Other factors that may contribute to GERD include obesity, pregnancy, hiatal hernia, and certain foods (such as fatty or spicy foods).","Antacids: These neutralize stomach acid and provide quick relief for mild symptoms. Examples include calcium carbonate (Tums), magnesium hydroxide (Milk of Magnesia), and aluminum hydroxide (Maalox). $
+
+H2 blockers: These reduce the amount of acid produced by the stomach and provide longer-lasting relief compared to antacids. Examples include ranitidine (Zantac) and famotidine (Pepcid). $
+
+Proton pump inhibitors (PPIs): These are the most effective medications for reducing stomach acid production and are typically used for more severe symptoms or when other medications have been ineffective. 
+Examples include omeprazole (Prilosec), lansoprazole (Prevacid), and esomeprazole (Nexium). $
+
+Prokinetics: These help to strengthen the lower esophageal sphincter and increase the clearance of acid from the esophagus. Examples include metoclopramide (Reglan) and domperidone (Motilium). $",,,,,,,,,,,,,,,,,,,,,,
+Chronic cholestasis,"Chronic cholestasis is a medical condition characterized by the inability of bile to flow properly from the liver into the small intestine, leading to a buildup of bile in the liver and elsewhere in the body. This can cause a range of symptoms such as jaundice, itching, fatigue, abdominal pain, and dark urine. Chronic cholestasis can be caused by a variety of underlying conditions, including liver diseases, bile duct blockages, Certain medications, Infections, and genetic disorders. Treatment options vary depending on the underlying cause but may include medications, lifestyle changes, and in severe cases, liver transplantation.","Ursodeoxycholic acid (UDCA): helps to reduce bile buildup and improve bile flow $
+
+Antioxidants: such as vitamin E, to reduce liver cell damage $
+
+Antihistamines: to relieve itching associated with cholestasis $
+
+Pain medications: to manage abdominal discomfort and pain $
+
+Laxatives: to relieve constipation $",,,,,,,,,,,,,,,,,,,,,,
+Drug Reaction,"A drug reaction refers to an adverse effect that occurs as a result of taking a medication. 
+Drug reactions can range from mild, such as a rash or headache, to severe and potentially life-threatening,
+ such as anaphylaxis. Some common causes of drug reactions include an allergic reaction, 
+side effects from the medication, and interactions with other drugs or substances.","The treatment for drug reaction depends on the type and severity of the reaction. In some cases, discontinuing the medication may be enough, but in severe cases, 
+additional treatments such as antihistamines, corticosteroids, or intravenous immunoglobulin may be necessary. In life-threatening cases, hospitalization and supportive care may be required.
+ It's important to seek medical attention if you suspect a drug reaction. $",,,,,,,,,,,,,,,,,,,,,,
+Peptic ulcer diseae,"A peptic ulcer is a sore on the lining of your stomach, small intestine or esophagus. 
+A peptic ulcer in the stomach is called a gastric ulcer. 
+A duodenal ulcer is a peptic ulcer that develops in the first part of the small intestine (duodenum). 
+An esophageal ulcer occurs in the lower part of your esophagus.","Antacids: These neutralize stomach acid and provide quick relief for mild symptoms. $
+
+H2 receptor blockers: These reduce the amount of acid produced by the stomach and provide
+ relief for up to 12 hours. Examples include cimetidine (Tagamet), ranitidine (Zantac), and famotidine (Pepcid). $
+
+Proton pump inhibitors (PPIs): These reduce the amount of acid produced by the stomach and provide more 
+effective and longer-lasting relief than H2 receptor blockers. 
+Examples include omeprazole (Prilosec), lansoprazole (Prevacid), and pantoprazole (Protonix). $
+
+Antibiotics: If a bacterial infection is causing the ulcer, antibiotics may be prescribed.
+ Examples include amoxicillin and clarithromycin (Biaxin). $
+
+Bismuth subsalicylate: This compound coats the stomach and protects the ulcer from further irritation.
+ It is available over-the-counter under the brand name Pepto-Bismol. $",,,,,,,,,,,,,,,,,,,,,,
+AIDS,"Acquired immunodeficiency syndrome (AIDS) is a chronic, potentially life-threatening condition caused by 
+the human immunodeficiency virus (HIV).
+ By damaging your immune system, HIV interferes with your body's ability to fight infection and disease.","Nucleoside reverse transcriptase inhibitors (NRTIs) $
+Non-nucleoside reverse transcriptase inhibitors (NNRTIs) $
+Protease inhibitors (PIs) $
+Integrase strand transfer inhibitors (INSTIs) $
+Fusion inhibitors $
+CCR5 antagonist $",,,,,,,,,,,,,,,,,,,,,,
+Gastroenteritis,"When you have diarrhea and vomiting, you may say you have the ""stomach flu."" 
+These symptoms often are due to a condition called gastroenteritis.","Antiemetics: to relieve nausea and vomiting. $
+
+Loperamide: to reduce diarrhea. $
+
+Bismuth subsalicylate: to relieve symptoms and help prevent dehydration. $
+
+Probiotics: to restore the balance of good bacteria in the gut. $
+
+Acetaminophen or ibuprofen: to relieve pain and reduce fever. $",,,,,,,,,,,,,,,,,,,,,,
+Bronchial Asthma,"Bronchial asthma is a chronic inflammatory disease of the airways characterized by bronchial hyperreactivity and a variable degree of airway obstruction. 
+It is diagnosed on the basis of the clinical history, physical examination, and pulmonary function tests, including reversibility testing and measurement of bronchial reactivity. 
+The goal of treatment is to control the symptoms of the disease effectively and in lasting fashion.
+Long-term treatment with inhaled corticosteroids is the basis of asthma treatment, alongside preventive measures and patient education.
+Bronchodilators such as beta2 sympathomimetics are used for rapid symptomatic relief of acute attacks.","Quick-relief medications (also known as ""rescue"" or ""reliever"" medications): These are used to quickly relieve symptoms of an asthma attack, 
+such as wheezing, coughing, and shortness of breath. Examples include albuterol, levalbuterol, and terbutaline. $
+
+Long-term control medications: These medications are taken on a regular basis to help prevent asthma symptoms and attacks. 
+Examples include inhaled corticosteroids, long-acting beta-agonists (LABAs), combination inhaled corticosteroid and LABA medications, and oral leukotriene modifiers. $",,,,,,,,,,,,,,,,,,,,,,
+Hypertension,"High blood pressure, also called hypertension, is blood pressure that is higher than normal.
+Your blood pressure changes throughout the day based on your activities. 
+Having blood pressure measures consistently above normal may result in a diagnosis of high blood pressure (or hypertension).","Thiazide diuretics $
+ACE inhibitors $
+Calcium channel blockers $
+Angiotensin receptor blockers (ARBs) $
+Beta blockers  $
+Aldosterone antagonists $
+Vasodilators $",,,,,,,,,,,,,,,,,,,,,,
+Migraine,"A headache of varying intensity, often accompanied by nausea and sensitivity to light and sound.
+Migraine headaches are sometimes preceded by warning symptoms. Triggers include hormonal changes, certain food and drink, stress and exercise.
+Migraine headaches can cause throbbing in one particular area that can vary in intensity. Nausea and sensitivity to light and sound are also common symptoms.
+Preventive and pain-relieving medication can help manage migraine headaches.","Pain relievers: Over-the-counter (OTC) pain relievers such as ibuprofen, acetaminophen, aspirin, and naproxen sodium can be effective in treating mild to moderate migraines. $
+
+Triptans: These are a class of prescription drugs that specifically target migraines by constricting blood vessels and blocking pain pathways. Examples include sumatriptan, rizatriptan, and zolmitriptan. $
+
+Dihydroergotamines (DHE): DHEs are another class of prescription drugs that can be effective in treating migraines. They are usually given as injections or nasal sprays. $
+
+Anti-nausea drugs: Medications such as metoclopramide or prochlorperazine can help with nausea and vomiting associated with migraines. $
+
+Beta-blockers: These medications, which are typically used to treat high blood pressure, can also help prevent migraines by slowing down the heartbeat and reducing blood pressure. $",,,,,,,,,,,,,,,,,,,,,,
+Cervical spondylosis,"Cervical spondylosis is a general term for age-related wear and tear affecting the spinal disks in your neck.
+ As the disks dehydrate and shrink, signs of osteoarthritis develop, including bony projections along the edges of bones (bone spurs).","Pain relievers: Over-the-counter (OTC) pain relievers such as acetaminophen (Tylenol) and nonsteroidal anti-inflammatory drugs (NSAIDs) 
+such as ibuprofen (Advil) can be helpful in reducing pain and inflammation. $
+
+Muscle relaxants: Muscle relaxants such as cyclobenzaprine (Flexeril) can help relieve muscle spasms and improve neck mobility. $
+
+Topical pain relievers: Topical pain relievers, such as creams or gels containing capsaicin or menthol, can be applied directly to the skin to relieve local pain. $
+
+Corticosteroids: Corticosteroids such as prednisone can be used to reduce inflammation, but should be used with caution and for short periods of time due to potential side effects. $",,,,,,,,,,,,,,,,,,,,,,
+Paralysis (brain hemorrhage),"Brain bleeds – bleeding between the brain tissue and skull or within the brain tissue itself – can cause brain damage and be life-threatening. 
+Some symptoms include headache; nausea and vomiting; or sudden tingling, weakness, numbness or paralysis of face, arm or leg.","Anti-inflammatory drugs to reduce swelling and pressure in the brain. $
+Anticoagulants or antiplatelet drugs to prevent blood clots. $
+Vasodilators to improve blood flow. $
+Diuretics to reduce fluid buildup and swelling. $
+Corticosteroids to reduce inflammation. $",,,,,,,,,,,,,,,,,,,,,,
+Jaundice,"Jaundice is a condition in which the skin, sclera (whites of the eyes) and mucous membranes turn yellow.
+This yellow color is caused by a high level of bilirubin, a yellow-orange bile pigment. Bile is fluid secreted by the liver. 
+Bilirubin is formed from the breakdown of red blood cells.","Ursodeoxycholic acid: used to treat liver disease and improve bile flow. $
+
+Corticosteroids: used to reduce inflammation and improve liver function. $
+
+Antiviral drugs: used to treat viral hepatitis. $
+
+Antibiotics: used to treat infections that may contribute to jaundice. $
+
+Rifampin: used to treat certain types of jaundice caused by medications.. $",,,,,,,,,,,,,,,,,,,,,,
+Malaria,"Malaria is a life-threatening disease primarily found in tropical countries. It is both preventable and curable. 
+However, without prompt diagnosis and effective treatment, a case of uncomplicated malaria can progress to a
+ severe form of the disease, which is often fatal without treatment. ","Chloroquine: This medication is usually used for mild to moderate cases of malaria. It works by preventing the parasites from multiplying in the body, but can be ineffective against certain strains of malaria. $ 
+
+Atovaquone/proguanil (Malarone): This combination medication is typically taken daily, starting 1 to 2 days before travel. It works by killing the parasites. $
+
+Doxycycline: This antibiotic is sometimes used in combination with other medications (such as quinine sulfate) to treat malaria caused by chloroquine-resistant Plasmodium falciparum. $
+
+Mefloquine: This medication is taken weekly, starting 1 to 2 weeks before travel. It works by preventing the parasites from multiplying in the body. $
+
+Primaquine: This medication is taken daily and is used to prevent malaria from relapsing. $
+
+Artemether/lumefantrine: This combination medication is taken twice a day over a 3-day period and is used to treat malaria caused by Plasmodium falciparum. $
+
+Quinine: This medication is taken daily, usually in combination with other medications such as doxycycline, to treat malaria caused by chloroquine-resistant Plasmodium falciparum. $
+
+Sulfadoxine/pyrimethamine: This combination medication is taken once a week, usually in combination with other medications, to treat malaria caused by chloroquine-resistant Plasmodium falciparum. $
+
+Clindamycin: This antibiotic is sometimes used in combination with other medications (such as quinine sulfate) to treat malaria caused by chloroquine-resistant Plasmodium falciparum. $",,,,,,,,,,,,,,,,,,,,,,
+Chicken pox,"Chickenpox is an infection caused by the varicella-zoster virus. It causes an itchy rash with small, fluid-filled blisters. 
+Chickenpox is highly contagious to people who haven't had the disease or been vaccinated against it. 
+Today, a vaccine is available that protects children against chickenpox. 
+Routine vaccination is recommended by the U.S. Centers for Disease Control and Prevention (CDC).","Acyclovir (Zovirax, Sitavig): This antiviral medication works by preventing the virus from multiplying in the body. It is usually given to people at high risk of developing complications. $
+
+
+Loratadine (Claritin): This antihistamine is used to relieve itching due to chickenpox. It is typically given in liquid form for children. $
+
+
+Tecovirimat (Vistide): This antiviral medication is used to treat chickenpox in people at high risk of developing complications. It works by stopping the virus from multiplying in the body. $
+
+
+Aspirin: Aspirin should not be used to treat chickenpox. Instead, use non-aspirin medications, such as acetaminophen, to relieve fever from chickenpox. $
+
+",,,,,,,,,,,,,,,,,,,,,,
+Dengue,"Dengue viruses are spread to people through the bite of an infected Aedes species (Ae. aegypti or Ae. albopictus) 
+mosquito.
+ Almost half of the world's population, about 4 billion people, live in areas with a risk of dengue. 
+Dengue is often a leading cause of illness in areas with risk.","Acetaminophen (Tylenol, others): This over-the-counter (OTC) medication can help reduce muscle pain and fever. Avoid other OTC pain relievers, including aspirin, ibuprofen (Advil, Motrin IB, others) and naproxen sodium (Aleve). $
+
+
+Amantadine (Symmetrel): This antiviral medication is effective and should be given as soon as possible to stop the disease course if dengue fever is confirmed through screening. It is usually given as a single daily dose. $
+
+
+Atovaquone (Mepron): This medication is used in combination with proguanil (Malarone) to prevent malaria. It is typically taken in a dose of 250/100 mg daily. $
+
+
+Chloroquine (Aralen): This medication is used to prevent and treat malaria. It is typically taken in a dose of 62.5 mg atovaquone + 25 mg proguanil tablets (for pediatrics). $
+
+",,,,,,,,,,,,,,,,,,,,,,
+Typhoid,"Typhoid fever is an infection that spreads through contaminated food and water.
+Vaccines are recommended in areas where typhoid fever is common.
+Symptoms include high fever, headache, stomach pain, weakness, vomiting and loose stools.
+Treatment includes antibiotics and fluids.","Ciprofloxacin (Cipro): This is the most commonly prescribed antibiotic for typhoid. It is usually given for 7-14 days in a dose of 500 mg twice daily. $
+
+
+Azithromycin (Zithromax): This antibiotic is effective for the treatment of both uncomplicated and recurrent typhoid fever. It is usually given for 7-10 days in a dose of 500 mg per day. $
+
+
+Levofloxacin (Levaquin): This antibiotic is also effective for treating typhoid fever. It is usually given in a dose of 500 mg per day for 10 days. $
+
+
+Chloramphenicol (Chloromycetin): This antibiotic is used to treat serious cases of typhoid fever. It is usually given in a dose of 500 mg four times a day. $",,,,,,,,,,,,,,,,,,,,,,
+hepatitis A,"Hepatitis A is a viral liver disease that is caused by the hepatitis A virus (HAV). It is primarily spread through contaminated food or water, and can also be spread through close personal contact with an infected person. Symptoms of hepatitis A may include fatigue, nausea, abdominal pain, jaundice (yellowing of the skin and eyes), and dark urine. In most cases, the disease will resolve on its own within a few weeks to a few months, but in some cases, it can lead to serious liver damage. Vaccination is the most effective way to prevent hepatitis A.","Immune Globulin (IG): This medication is used to prevent hepatitis A infection if administered within two weeks of exposure. It is usually given as an injection in a dose of 0.02 mL/kg. $
+
+
+Acetaminophen (Tylenol, Tempra, Feverall): This medication is used for pain relief and/or fever. It is usually given in a dose of 500-1000 mg every four to six hours. $
+
+
+Antiemetics: This medication is used to control nausea and vomiting. Commonly used antiemetics include metoclopramide (Reglan), prochlorperazine (Compazine), and promethazine (Phenergan). $
+
+
+Vaccines: Vaccines are available for both hepatitis A and B. The hepatitis A vaccine is usually given in a dose of 0.5 mL intramuscularly. The hepatitis B vaccine is usually given in a dose of 0.5 mL intramuscularly. $",,,,,,,,,,,,,,,,,,,,,,
+Hepatitis B,"Hepatitis B is a viral liver disease that is caused by the hepatitis B virus (HBV). It is primarily spread through contact with the blood or bodily fluids of an infected person, such as through unprotected sex, sharing needles, or from an infected mother to her baby during childbirth. Symptoms of hepatitis B may include fatigue, abdominal pain, loss of appetite, nausea, and jaundice. In some cases, the disease can lead to chronic liver problems such as cirrhosis or liver cancer. Vaccination is the most effective way to prevent hepatitis B. There are also effective treatments available for those who are infected with the virus.","Pegylated Interferon Alfa (PEG-IFN-a): This immune modulator is used to treat chronic hepatitis B virus infection. It is usually given as an injection in a dose of 180 mcg once weekly for 48 weeks. $
+
+
+Entecavir (Baraclude): This antiviral medication is used to treat chronic hepatitis B virus infection. It is usually given in a dose of 0.5 mg once daily. $
+
+
+Tenofovir Disoproxil Fumarate (Viread): This antiviral medication is used to treat chronic hepatitis B and HIV infection. It is usually given in a dose of 300 mg once daily. $
+
+
+Tenofovir Alafenamide (TAF): This antiviral medication is used to treat chronic hepatitis B virus infection. It is usually given in a dose of 25 mg once daily. $
+
+",,,,,,,,,,,,,,,,,,,,,,
+Hepatitis C,"Hepatitis C is a viral infection that causes liver inflammation, potentially leading to serious liver damage. The hepatitis C virus (HCV) is primarily spread through contaminated blood, such as through shared needles or transfusions with infected blood. Symptoms can include fatigue, abdominal pain, and yellowing of the skin and eyes (jaundice), but many people with HCV do not have any symptoms. In some cases, HCV can lead to chronic liver disease, cirrhosis, and liver cancer. The good news is that hepatitis C can now be effectively treated with antiviral medications, and in many cases, a cure is possible.","Sofosbuvir (Sovaldi): This antiviral medication is used to treat chronic hepatitis C virus infection. It is usually given in a dose of 400 mg once daily. $
+
+
+Ledipasvir-Sofosbuvir (Harvoni): This combination antiviral medication is used to treat chronic hepatitis C virus infection. It is usually given in a dose of one tablet (90 mg ledipasvir/400 mg sofosbuvir) once daily. $
+
+
+Ombitasvir-Paritaprevir-Ritonavir (Viekira Pak): This combination antiviral medication is used to treat chronic hepatitis C virus infection. It is usually given in a dose of one tablet (25 mg ombitasvir/75 mg paritaprevir/50 mg ritonavir) once daily. $
+
+
+Elbasvir-Grazoprevir (Zepatier): This combination antiviral medication is used to treat chronic hepatitis C virus infection. It is usually given in a dose of one tablet (50 mg elbasvir/100 mg grazoprevir) once daily. $
+
+
+Glecaprevir-Pibrentasvir (Mavyret): This combination antiviral medication is used to treat chronic hepatitis C virus infection. It is usually given in a dose of one tablet (200 mg glecaprevir/40 mg pibrentasvir) once daily. $",,,,,,,,,,,,,,,,,,,,,,
+Hepatitis D,"Hepatitis D, also known as delta hepatitis, is a viral infection caused by the hepatitis D virus (HDV). It is a rare form of hepatitis that only occurs in people who are already infected with the hepatitis B virus (HBV). HDV is spread through contaminated blood and can cause severe liver damage, including cirrhosis and liver failure. Unlike hepatitis B and C, there is no vaccine for hepatitis D, and treatment options are limited. In order to prevent hepatitis D, it is important to get vaccinated against hepatitis B.","Pegylated Interferon Alfa (PEG-IFN-a): This immune modulator is used to treat chronic hepatitis D virus infection. It is usually given as an injection in a dose of 180 mcg once weekly for 48 weeks. $
+
+
+Bulevirtide: This antiviral medication is used to treat chronic hepatitis D virus infection. It is usually given in a dose of 2.5 mg twice daily. $
+
+
+Lonafarnib: This antiviral medication is used to treat chronic hepatitis D virus infection. It is usually given in a dose of 50 mg twice daily. $
+
+
+Pegylated Interferon Lambda (PEG-IFN-?): This immune modulator is used to treat chronic hepatitis D virus infection. It is usually given as an injection in a dose of 10 mcg once weekly for 48 weeks. $
+
+
+Nucleic Acid Polymers: This antiviral medication is used to treat chronic hepatitis D virus infection. It is usually given in a dose of 0.3 mg/kg once daily for 48 weeks. $
+
+
+RNA Interference Compounds: This antiviral medication is used to treat chronic hepatitis D virus infection. It is usually given in a dose of 0.3 mg/kg once daily for 48 weeks. $",,,,,,,,,,,,,,,,,,,,,,
+Hepatitis E,"Hepatitis E is a viral infection caused by the hepatitis E virus (HEV). It is primarily spread through contaminated food or water and is most common in developing countries with poor sanitation. Symptoms of hepatitis E can include fatigue, abdominal pain, jaundice, and loss of appetite. The illness typically resolves on its own within several weeks, but in rare cases, it can lead to serious liver damage, particularly in pregnant women and people with weakened immune systems. There is no specific treatment for hepatitis E, but the best way to prevent it is to practice good hygiene and to avoid consuming contaminated food and water.","Ribavirin: This antiviral medication is used to treat chronic hepatitis E virus infection. It is usually given in a dose of 800 mg twice daily. $
+
+
+Interferon Alfa-2b: This immune modulator is used to treat chronic hepatitis E virus infection. It is usually given as an injection in a dose of 3 million units three times per week for 12 weeks. $
+
+
+Thymosin Alpha-1: This antiviral medication is used to treat chronic hepatitis E virus infection. It is usually given in a dose of 0.2 mg/kg once daily for 24 weeks. $
+
+
+Sulfasalazine: This antiviral medication is used to treat chronic hepatitis E virus infection. It is usually given in a dose of 500 mg twice daily for 24 weeks. $
+
+
+Tacrolimus: This antiviral medication is used to treat chronic hepatitis E virus infection. It is usually given in a dose of 0.3 mg/kg once daily for 24 weeks. $
+
+
+Azithromycin: This antibiotic medication is used to treat chronic hepatitis E virus infection. It is usually given in a dose of 500 mg once daily for 24 weeks. $",,,,,,,,,,,,,,,,,,,,,,
+Alcoholic hepatitis,"Alcoholic hepatitis is a form of liver inflammation caused by excessive alcohol consumption. Over time, excessive alcohol use can damage the liver and lead to the development of scar tissue, known as cirrhosis. In some cases, heavy drinking can also cause acute liver inflammation, leading to the development of alcoholic hepatitis. Symptoms of alcoholic hepatitis can include abdominal pain and tenderness, jaundice, fatigue, and confusion. In severe cases, it can lead to liver failure and death. The best way to prevent alcoholic hepatitis is to limit or avoid alcohol consumption. If you are concerned that your drinking habits may be affecting your liver health, it's important to speak with your doctor.","Corticosteroids: This anti-inflammatory medication is used to treat severe alcoholic hepatitis. It is usually given in a dose of prednisone 40 mg once daily. $
+
+
+Pentoxifylline: This anti-inflammatory medication is used to treat mild to moderate alcoholic hepatitis. It is usually given in a dose of 400 mg three times per day. $
+
+
+Naltrexone: This medication is used to treat alcoholism. It is usually given in a dose of 50 mg once daily. $
+
+
+Acamprosate: This medication is used to treat alcoholism. It is usually given in a dose of 333 mg three times per day. $
+
+
+Disulfiram: This medication is used to treat alcoholism. It is usually given in a dose of 200 mg once daily. $
+
+",,,,,,,,,,,,,,,,,,,,,,
+Tuberculosis,"Tuberculosis (TB) is a bacterial infection caused by Mycobacterium tuberculosis. It primarily affects the lungs, but it can also spread to other parts of the body, such as the bones, lymph nodes, and kidneys. TB is spread through the air when an infected person talks, coughs, or sneezes. Symptoms of TB include a persistent cough that lasts for three weeks or longer, chest pain, coughing up blood or phlegm, weakness or fatigue, weight loss, and chills. TB can be treated with antibiotics, but treatment can take several months to complete and it is important to take all medications as directed to prevent the development of drug-resistant strains of the bacterium. People with weakened immune systems, such as those living with HIV, are at a higher risk of developing TB, so it's important to take steps to protect yourself from exposure to the bacterium.","Isoniazid (INH): This antimicrobial medication is used to treat active TB. It is usually given in a dose of 300 mg once daily. $
+
+
+Rifampin (RIF): This antimicrobial medication is used to treat active TB. It is usually given in a dose of 600 mg once daily. $
+
+
+Pyrazinamide (PZA): This antimicrobial medication is used to treat active TB. It is usually given in a dose of 15–30 mg/kg once daily. $
+
+
+Ethambutol (EMB): This antimicrobial medication is used to treat active TB. It is usually given in a dose of 15–25 mg/kg once daily. $
+
+
+Rifapentine (RPT): This antimicrobial medication is used to treat active TB. It is usually given in a dose of 600 mg once weekly. $
+
+
+Pyridoxine (vitamin B6): This vitamin is used to prevent TB-related peripheral neuropathy. It is usually given in a dose of 25–50 mg/day. $",,,,,,,,,,,,,,,,,,,,,,
+Common Cold,"The common cold is a viral illness that affects the upper respiratory system, causing symptoms such as a runny or stuffy nose, cough, sore throat, headache, and body aches. It is one of the most common illnesses and is usually mild, although it can make you feel miserable for several days. The common cold is caused by a variety of viruses, and it is highly contagious, spread through the air when an infected person talks, coughs, or sneezes, or by touching contaminated surfaces. There is no cure for the common cold, but the symptoms can be treated with over-the-counter medications, such as decongestants and pain relievers, as well as home remedies such as rest, hydration, and chicken soup. To reduce your risk of getting a cold, it's important to practice good hygiene, such as washing your hands frequently and avoiding close contact with people who are sick.","Pain relievers: Acetaminophen (Tylenol) or ibuprofen (Advil, Motrin) can help relieve headache, muscle aches, and fever. $
+
+Decongestants: Nasal decongestants such as pseudoephedrine (Sudafed) can help relieve stuffy nose. $
+
+Cough suppressants: Dextromethorphan (Robitussin) can help suppress coughing. $ 
+
+Mucolytics: Guaifenesin (Mucinex) can help break up mucus, making it easier to cough up. $
+
+Saline nasal sprays: Saline nasal sprays can help moisten the nasal passages and relieve dryness. $",,,,,,,,,,,,,,,,,,,,,,
+Pneumonia,"Pneumonia is a lung infection caused by bacteria, viruses, fungi, or other microorganisms. It can cause inflammation and fluid accumulation in the lungs, leading to symptoms such as cough with phlegm, fever, chills, chest pain, shortness of breath, fatigue, and muscle aches. Pneumonia can range from mild to severe, and it can be especially dangerous for people with weakened immune systems, such as the elderly, young children, and people with chronic health conditions. Pneumonia can be treated with antibiotics, antivirals, or antifungal medications, depending on the cause of the infection. In some cases, hospitalization may be necessary for severe cases or for people who are unable to care for themselves at home. To reduce your risk of getting pneumonia, it's important to practice good hygiene, get vaccinated against pneumococcal disease, and seek medical attention promptly if you have symptoms of pneumonia.","Antibiotics: Bacterial pneumonia is treated with antibiotics, such as penicillin, macrolides, fluoroquinolones, or doxycycline. $
+
+Antivirals: Viral pneumonia may be treated with antiviral medications, such as oseltamivir (Tamiflu) or zanamivir (Relenza). $
+
+Corticosteroids: Corticosteroids may be used to reduce inflammation in the lungs and help with breathing difficulties. $
+
+Mucolytics: Mucolytics, such as acetylcysteine, may be used to help break up mucus and make it easier to cough up. $",,,,,,,,,,,,,,,,,,,,,,
+Dimorphic hemmorhoids(piles),"Dimorphic hemorrhoids, also known as piles, are swollen veins in the lower rectum and anus. They can cause a range of symptoms, including itching, pain, and bleeding during bowel movements. Hemorrhoids are classified into two types: internal and external. Internal hemorrhoids are located inside the rectum and are usually painless, but they can cause rectal bleeding. External hemorrhoids are located under the skin around the anus and can be painful. Hemorrhoids are common and often result from increased pressure in the lower rectum, such as from straining during bowel movements, pregnancy, or obesity. Treatment for hemorrhoids can range from simple lifestyle changes, such as increasing fiber in your diet and using stool softeners, to medical or surgical procedures. If you are experiencing symptoms of hemorrhoids, it's important to speak with your doctor to determine the best course of treatment.","Topical creams and ointments: Over-the-counter (OTC) creams and ointments, such as hydrocortisone, can provide relief from itching, burning, and pain.
+
+Sitz baths: Soaking in a warm bath can help soothe the area and promote healing.
+
+Pain relievers: Acetaminophen (Tylenol) or ibuprofen (Advil, Motrin) can help relieve pain and discomfort.
+
+Stool softeners: Stool softeners, such as docusate (Colace), can make it easier to have a bowel movement and reduce straining.
+
+Topical numbing agents: Topical anesthetics, such as lidocaine, can provide temporary relief from pain.",,,,,,,,,,,,,,,,,,,,,,
+Heart attack,"Heart failure is a condition in which the heart is unable to pump enough blood to meet the body's demands for blood and oxygen. It's not a heart attack, but rather a chronic progressive condition in which the heart becomes weakened and less efficient over time. Heart failure can be caused by various factors such as damage to the heart muscle, high blood pressure, heart valve problems, or heart rhythm disorders. Symptoms of heart failure can include fatigue, shortness of breath, swelling in the legs, ankles and feet, and rapid or irregular heartbeat. It can be managed with lifestyle changes, medications, and medical procedures, but there is no cure for heart failure.","Aspirin: Aspirin is often given as soon as possible to help prevent blood clots from forming and worsening the heart attack. $
+
+Thrombolytics: Thrombolytics, such as tissue plasminogen activator (tPA), can dissolve blood clots that are blocking blood flow to the heart. $
+
+Antiplatelet medications: Antiplatelet medications, such as clopidogrel (Plavix), can help prevent blood clots from forming. $
+
+Anticoagulants: Anticoagulants, such as heparin or warfarin (Coumadin), can help prevent blood clots from forming and worsening the heart attack. $
+
+Nitrates: Nitrates, such as nitroglycerin, can widen blood vessels and improve blood flow to the heart. $
+
+Beta-blockers: Beta-blockers, such as metoprolol (Lopressor), can slow the heart rate and reduce the workload on the heart. $
+
+ACE inhibitors: ACE inhibitors, such as lisinopril (Zestril), can help improve blood flow and reduce strain on the heart. $",,,,,,,,,,,,,,,,,,,,,,
+Varicose veins,"Varicose veins are swollen, twisted veins that you can see just under the surface of the skin. They usually occur in the legs, but can also form in other parts of the body. Varicose veins are caused by weakened valves in the veins, which allow blood to flow backwards and pool in the veins. This can lead to swelling and discomfort. Symptoms of varicose veins can include aching, burning, and itching in the legs, as well as visible veins. Risk factors for developing varicose veins include age, obesity, standing for long periods of time, and family history. In some cases, treatment may be necessary to relieve symptoms, improve circulation, and prevent complications. Treatment options include compression stockings, lifestyle changes, and medical procedures.","Compression stockings: Compression stockings can help improve blood flow and reduce swelling in the legs. $
+
+Nonsteroidal anti-inflammatory drugs (NSAIDs): NSAIDs, such as ibuprofen (Advil, Motrin), can help relieve pain and reduce swelling. $
+
+Horse chestnut seed extract: Horse chestnut seed extract has been shown to improve symptoms of varicose veins. $
+
+Pycnogenol: Pycnogenol, an antioxidant derived from pine bark, has been shown to improve symptoms of varicose veins. $
+
+Daflon: Daflon is a combination of diosmin and hesperidin that has been used to improve symptoms of varicose veins. $",,,,,,,,,,,,,,,,,,,,,,
+Hypothyroidism,"Hypothyroidism is a condition in which the thyroid gland, located in the neck, does not produce enough hormones. The thyroid hormones regulate the body's metabolism, so a lack of thyroid hormones can lead to a slow metabolism and a wide range of symptoms. Common symptoms of hypothyroidism include fatigue, weight gain, cold intolerance, dry skin, hair loss, and depression. Hypothyroidism can be caused by autoimmune diseases, radiation therapy, surgical removal of the thyroid gland, or certain medications. It can also occur as a result of an iodine deficiency. Hypothyroidism is diagnosed with a blood test and can be treated with daily hormone replacement therapy in the form of a pill. Regular monitoring and adjustments to the hormone replacement therapy may be necessary to maintain normal hormone levels.","Levothyroxine: Levothyroxine is a synthetic form of the thyroid hormone thyroxine. It is the most commonly prescribed medication for hypothyroidism and is used to replace the missing thyroid hormone in the body.$
+
+Liothyronine: Liothyronine is a synthetic form of the thyroid hormone triiodothyronine. It is used to supplement the missing thyroid hormone in the body. $
+
+Thyroid extract: Thyroid extract is a natural form of the thyroid hormone that is derived from pig thyroids. It is used to supplement the missing thyroid hormone in the body. $",,,,,,,,,,,,,,,,,,,,,,
+Hyperthyroidism,"Hyperthyroidism is a condition in which the thyroid gland produces too much of the hormone thyroxine. This can cause an overactive metabolism, leading to symptoms such as weight loss, increased appetite, rapid heartbeat, nervousness, irritability, and sweating. Hyperthyroidism can be caused by Graves' disease, an autoimmune disorder, a noncancerous thyroid nodule, or inflammation of the thyroid gland. It can also be caused by taking too much thyroid hormone medication. Hyperthyroidism is diagnosed with a blood test and can be treated with medication, radioactive iodine, or surgery to remove the thyroid gland. In some cases, antithyroid drugs may also be used to slow down the thyroid hormone production. Close monitoring by a healthcare provider is important to ensure the right treatment and prevent complications.","Propylthiouracil (PTU): PTU is an antithyroid drug that works by blocking the production of thyroxine by the thyroid gland. $ 
+
+Methimazole (Tapazole): Methimazole is an antithyroid drug that works by blocking the production of thyroxine by the thyroid gland.  $
+
+Beta-blockers: Beta-blockers, such as propranolol (Inderal), can help control symptoms of hyperthyroidism, such as rapid heart rate, palpitations, and sweating. $
+
+Radioactive iodine: Radioactive iodine is a treatment that uses small amounts of radioactive iodine to shrink the thyroid gland and reduce hormone production. $
+
+Surgery: Surgery to remove the thyroid gland (thyroidectomy) may be recommended in severe cases of hyperthyroidism that do not respond to other treatments. $",,,,,,,,,,,,,,,,,,,,,,
+Hypoglycemia,"Hypoglycemia is a condition in which the blood sugar levels fall too low, causing symptoms such as shakiness, dizziness, confusion, and hunger. It can occur in people with diabetes taking insulin or glucose-lowering medications, or in people without diabetes. Treatment involves quickly raising blood sugar levels with food or drink, and long-term management may involve adjusting medications and making dietary changes.","Glucagon: Glucagon is a hormone that raises blood sugar levels. It is given as an injection in severe cases of hypoglycemia. $
+
+Dextrose: Dextrose is a form of sugar that is rapidly absorbed into the bloodstream and can raise blood sugar levels quickly. It is available in gels, liquids, and gummies. $
+
+Fast-acting carbohydrates: Fast-acting carbohydrates, such as fruit juice, regular soda, or hard candy, can be consumed to raise blood sugar levels quickly. $",,,,,,,,,,,,,,,,,,,,,,
+Osteoarthristis,"Osteoarthritis is a degenerative joint disease that causes the cartilage in the joints to break down, leading to pain, stiffness, and reduced mobility. It is a common condition, especially in older adults, and can affect any joint in the body. Risk factors for osteoarthritis include aging, obesity, joint injury, and genetics. Treatment for osteoarthritis typically involves pain management, physical therapy, weight management, and in some cases, joint injections or surgery.","Acetaminophen (Tylenol): Acetaminophen is a pain reliever that can help relieve mild to moderate pain. $
+
+Nonsteroidal anti-inflammatory drugs (NSAIDs): NSAIDs, such as ibuprofen (Advil, Motrin) or naproxen (Aleve), can help relieve pain and reduce inflammation. $
+
+Corticosteroids: Corticosteroids, such as prednisone, can be used to reduce inflammation and pain in severe cases of osteoarthritis. $
+
+Topical creams and gels: Topical creams and gels, such as diclofenac gel, can be applied directly to the affected joint to relieve pain. $
+
+Hyaluronic acid injections: Hyaluronic acid injections can be used to lubricate and cushion the joint, reducing pain and improving mobility. $",,,,,,,,,,,,,,,,,,,,,,
+Arthritis,"Arthritis is a general term used to describe inflammation of one or more joints, causing pain, swelling, and stiffness. There are many types of arthritis, including osteoarthritis, rheumatoid arthritis, and gout, and it can affect people of all ages. Arthritis can be caused by a variety of factors, including injury, genetics, and underlying medical conditions. Treatment for arthritis depends on the type and severity of the condition, but may include pain management, physical therapy, medications, and in some cases, joint injections or surgery.","Acetaminophen (Tylenol): Acetaminophen is a pain reliever that can help relieve mild to moderate pain. $
+
+Nonsteroidal anti-inflammatory drugs (NSAIDs): NSAIDs, such as ibuprofen (Advil, Motrin) or naproxen (Aleve), can help relieve pain and reduce inflammation. $
+
+Corticosteroids: Corticosteroids, such as prednisone, can be used to reduce inflammation and pain in severe cases of arthritis. $
+
+Disease-modifying antirheumatic drugs (DMARDs): DMARDs, such as methotrexate or sulfasalazine, can slow down the progression of rheumatoid arthritis by suppressing the immune system. $
+
+Biologic agents: Biologic agents, such as tumor necrosis factor (TNF) inhibitors, can help reduce inflammation and pain in severe cases of rheumatoid arthritis. $",,,,,,,,,,,,,,,,,,,,,,
+(vertigo) Paroymsal Positional Vertigo,"Positional vertigo, also known as paroxysmal positional vertigo (PPV), is a type of vertigo that is triggered by specific head movements or positions. It is characterized by brief, intense episodes of dizziness, spinning, and unsteadiness, often accompanied by nausea. PPV is caused by displacement of small calcium crystals in the inner ear, which can cause confusion in the brain about the body's position. It is often treated with a simple maneuver called the Epley maneuver, which helps to reposition the calcium crystals. In some cases, medication or other therapies may be necessary to manage symptoms.","Vestibular rehabilitation therapy: Vestibular rehabilitation therapy is a type of physical therapy that can help improve balance and reduce dizziness in people with PPV. $
+
+Antihistamines: Antihistamines, such as meclizine (Antivert), can help reduce dizziness and nausea caused by PPV. $
+
+Canalith repositioning procedures: Canalith repositioning procedures, such as the Epley maneuver or the Barbeque roll, can help move the particles in the inner ear that are causing dizziness. $",,,,,,,,,,,,,,,,,,,,,,
+Acne,"Acne is a common skin condition characterized by pimples, blackheads, and whiteheads, and can occur on the face, neck, back, and chest. It is caused by overproduction of oil in the skin, clogged hair follicles, and an overgrowth of a bacteria called Propionibacterium acnes. Acne can be influenced by hormones, genetics, and certain medications and cosmetics. Treatment for acne can include topical creams, oral antibiotics, and in severe cases, isotretinoin. Maintaining good skin hygiene and avoiding irritants can also help to reduce symptoms.","Topical retinoids: Topical retinoids, such as tretinoin (Retin-A) or adapalene (Differin), can help unclog pores and reduce the formation of new pimples. $
+
+Topical antibiotics: Topical antibiotics, such as clindamycin (Cleocin T) or erythromycin, can help reduce inflammation and kill bacteria on the skin. $
+
+Benzoyl peroxide: Benzoyl peroxide is a topical medication that can help unclog pores, reduce the formation of new pimples, and kill bacteria on the skin. $
+
+Oral antibiotics: Oral antibiotics, such as doxycycline or minocycline, can be used to reduce inflammation and kill bacteria in severe cases of acne. $
+
+Hormonal therapy: Hormonal therapy, such as birth control pills, can be used to regulate hormones that can contribute to acne. $",,,,,,,,,,,,,,,,,,,,,,
+Urinary tract infection,"A urinary tract infection (UTI) is an infection that affects any part of the urinary system, including the bladder, urethra, ureters, or kidneys. UTIs are caused by bacteria and can result in symptoms such as painful urination, frequent urge to urinate, cloudy or strong-smelling urine, and low abdominal pain. UTIs are more common in women than in men, and can be treated with antibiotics. To prevent UTIs, it is important to drink plenty of fluids, empty the bladder regularly, and practice good hygiene, especially after sexual activity.","Antibiotics: Antibiotics, such as amoxicillin, ciprofloxacin, or nitrofurantoin, can help kill the bacteria causing the infection. The specific antibiotic used may depend on the type of bacteria causing the infection and the severity of the infection. $
+
+Pain relievers: Pain relievers, such as acetaminophen (Tylenol) or ibuprofen (Advil), can help relieve pain and discomfort associated with a UTI. $",,,,,,,,,,,,,,,,,,,,,,
+Psoriasis,"Psoriasis is a chronic skin condition that causes the skin cells to build up and form scaly, red patches on the skin. The patches, known as plaques, can be itchy and painful, and can occur on any part of the body. Psoriasis is believed to be caused by an overactive immune system, and can be influenced by genetics, stress, injury to the skin, and certain medications. Treatment for psoriasis can include topical creams, phototherapy, oral medications, and in severe cases, biologic drugs. Maintaining good skin hygiene and avoiding irritants can also help to reduce symptoms.","Topical treatments: These are applied directly to the skin and include creams, ointments, gels, and lotions. Examples include corticosteroids, calcipotriene, tazarotene, and anthralin.
+
+Systemic treatments: These are medications taken orally or injected that work throughout the body. Examples include methotrexate, cyclosporine, acitretin, and apremilast.
+
+Biologic treatments: These are treatments that use proteins derived from living organisms to target specific parts of the immune system that play a role in psoriasis. Examples include etanercept, adalimumab, ustekinumab, and infliximab.",,,,,,,,,,,,,,,,,,,,,,
+Liver Disease,"Liver disease refers to any disturbance or abnormal functioning of the liver that leads to injury and decreased liver function. It can be caused by various factors, including viral infections, excessive alcohol consumption, fatty liver disease, and certain medications. Symptoms of liver disease can include fatigue, abdominal pain, jaundice, and swelling in the legs and ankles. Early detection and treatment are important to prevent progression and potential liver failure.","Antivirals: For liver disease caused by viral infections such as hepatitis B or C, antiviral medications can be prescribed to help manage the infection and prevent progression to cirrhosis or liver cancer. $
+
+Corticosteroids: These medications can be used to treat liver inflammation caused by conditions such as autoimmune hepatitis.$
+
+Diuretics: Diuretics, also known as ""water pills,"" can help reduce fluid buildup in the abdomen (ascites) in people with liver cirrhosis. $
+
+Immunosuppressants: These medications can be used to treat liver disease caused by an overactive immune system, such as primary biliary cirrhosis. $
+
+Antifibrotics: Antifibrotic medications can slow down or halt the progression of liver fibrosis caused by various liver diseases. $
+
+Vitamin and mineral supplements: People with liver disease may be deficient in certain vitamins and minerals, and supplements can help replenish these levels. $",,,,,,,,,,,,,,,,,,,,,,
+Lung Cancer,"Lung cancer is a type of cancer that originates in the lungs and affects the respiratory system. It is usually caused by long-term exposure to carcinogens such as tobacco smoke, air pollution, and radiation. The most common symptoms of lung cancer include a persistent cough, chest pain, shortness of breath, and wheezing. The prognosis and treatment options for lung cancer depend on various factors, including the stage and type of the cancer, and the overall health of the patient. Early detection and diagnosis are important for improving the chances of successful treatment.","Chemotherapy: Chemotherapy is a type of systemic therapy that uses drugs to destroy cancer cells. It may be used alone or in combination with other treatments such as radiation therapy or surgery. $
+
+Targeted therapy: Targeted therapy drugs target specific genetic mutations or abnormalities in cancer cells that allow them to grow and divide. They may be used alone or in combination with chemotherapy. $
+
+Immunotherapy: Immunotherapy is a type of treatment that helps the body's immune system recognize and attack cancer cells. Some immunotherapy drugs have been approved for the treatment of lung cancer. $
+
+Radiation therapy: Radiation therapy uses high-energy beams of radiation to kill cancer cells. It may be used as a primary treatment for early-stage lung cancers or in combination with chemotherapy for more advanced stages. $
+
+Hormonal therapy: Hormonal therapy may be used to treat certain types of lung cancer that are sensitive to hormones, such as lung cancers that produce excess amounts of certain hormones.$
+
+",,,,,,,,,,,,,,,,,,,,,,
+Heart Disease,"Heart disease, also known as cardiovascular disease, is a group of conditions that affect the heart and blood vessels. It can be caused by various factors, such as high blood pressure, high cholesterol, smoking, and obesity. Symptoms of heart disease may include chest pain, shortness of breath, fatigue, and heart palpitations. Heart disease can be prevented or managed through lifestyle changes, such as maintaining a healthy diet, exercising regularly, quitting smoking, and controlling risk factors through medication. Early detection and treatment of heart disease can greatly improve the chances of successful management and reduce the risk of serious complications.","Cholesterol-lowering medications: Statins, bile acid sequestrants, and niacin are commonly used to lower cholesterol levels, which can help to reduce the risk of heart disease. $
+
+Blood pressure-lowering medications: ACE inhibitors, ARBs, calcium channel blockers, and beta blockers are some of the medications used to lower blood pressure and reduce the risk of heart disease.$
+
+Anti-clotting medications: Aspirin, clopidogrel, and warfarin are some of the medications used to reduce the risk of blood clots, which can lead to heart attack or stroke.$
+
+Heart failure medications: Diuretics, ACE inhibitors, ARBs, beta blockers, and aldosterone antagonists are some of the medications used to manage heart failure, which occurs when the heart cannot pump enough blood to meet the body's needs.$ 
+
+Arrhythmia medications: Beta blockers, calcium channel blockers, and anti-arrhythmic drugs are some of the medications used to treat arrhythmias, which are abnormal heart rhythms. $
+
+Nitrates: Nitroglycerin and other nitrates are used to treat chest pain (angina) and heart attack by dilating the blood vessels and increasing blood flow to the heart. $",,,,,,,,,,,,,,,,,,,,,,
+Diabetes Disease,"Diabetes is a chronic (long-lasting) health condition that affects how your body turns
+ food into energy. Your body breaks down most of the food you eat into sugar (glucose) 
+and releases it into your bloodstream. When your blood sugar goes up, 
+it signals your pancreas to release insulin.","Insulin: This hormone helps regulate blood sugar levels and is used by people with type 1 diabetes and some people with type 2 diabetes. $
+
+Metformin: This is an oral medication that helps to lower blood sugar levels by reducing the amount of glucose produced by the liver and improving insulin sensitivity. $
+
+Sulfonylureas: This is a class of oral medications that stimulates the pancreas to produce more insulin. $
+
+DPP-4 inhibitors: This is a class of oral medications that helps to increase insulin production and lower blood sugar levels by blocking the breakdown of a hormone called incretin. $
+
+SGLT2 inhibitors: This is a class of oral medications that helps to lower blood sugar levels by blocking the reabsorption of glucose in the kidneys, causing glucose to be eliminated in the urine. $
+
+GLP-1 receptor agonists: This is a class of injectable medications that helps to lower blood sugar levels by increasing insulin production and reducing the amount of glucose produced by the liver.$",,,,,,,,,,,,,,,,,,,,,,
